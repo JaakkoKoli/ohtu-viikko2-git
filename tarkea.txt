@@ -1,6 +1,10 @@
-fadfasf
+sf
 fdafasdf
 fasfsa
 dsad
 dasd
+<<<<<<< HEAD
 bbb
+=======
+aaa
+>>>>>>> master
